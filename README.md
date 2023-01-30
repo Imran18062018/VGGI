@@ -1,6 +1,4 @@
 # WebGL
 
-Practical assigment #1 (Surface Rendering) 
+Practical assigment #2  
 Variant № 1
-
-![Getting Started](fig_one.gif)
